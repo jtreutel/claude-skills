@@ -1,0 +1,17 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "jtreutel",
+    "url": "https://github.com/jtreutel"
+  },
+  "description": "jtreutel's personal collection of Claude Code skills.",
+  "plugins": [
+    {
+      "name": "working-style",
+      "source": "./plugins/working-style",
+      "description": "Engineering and technical-writing working-style preferences — Simplified Technical English, lean dependencies, production-ready defaults, explain-the-why, and IaC state safety.",
+      "category": "productivity",
+      "tags": ["skills", "conventions", "writing"]
+    }
+  ]
+}

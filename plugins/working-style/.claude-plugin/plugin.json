@@ -1,0 +1,12 @@
+{
+  "name": "working-style",
+  "version": "0.1.0",
+  "description": "Engineering and technical-writing working-style preferences as a loadable skill.",
+  "author": {
+    "name": "jtreutel",
+    "url": "https://github.com/jtreutel"
+  },
+  "homepage": "https://github.com/jtreutel/claude-skills",
+  "license": "MIT",
+  "keywords": ["skills", "working-style", "simplified-technical-english", "conventions"]
+}
